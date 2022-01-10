@@ -1,0 +1,101 @@
+.viewtype {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+.mainbody {
+  background-color: #ffffff;
+
+  border-bottom: 2px solid #eaeaea;
+  padding-top: 0;
+  padding-bottom: 9px;
+  margin-left: 350px;
+  margin-right: 350px;
+  display: block;
+}
+
+.img1 {
+  align: center;
+  width: 600px;
+  margin: auto;
+  display: block;
+  background-color: #ffffff;
+}
+.register_btn {
+  border-collapse: separate !important;
+  border-radius: 3px;
+  background-color: #0c4e50;
+  font-family: Arial;
+  font-size: 16px;
+  padding: 15px;
+  font-weight: bold;
+  letter-spacing: normal;
+  line-height: 150%;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  margin: auto;
+  display: block;
+}
+
+.listcontent {
+  padding-top: 50px;
+  padding-right: 18px;
+  padding-bottom: 9px;
+  padding-left: 18px;
+  margin: auto;
+  display: block;
+}
+
+.build_button {
+  border-collapse: separate !important;
+  border-radius: 3px;
+  background-color: #0c4e50;
+  font-family: Arial;
+  font-size: 16px;
+  padding: 15px;
+  font-weight: bold;
+  letter-spacing: normal;
+  line-height: 150%;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  margin: auto;
+  display: block;
+}
+.text {
+  color: #202020;
+  font-family: Helvetica;
+  font-size: 12px;
+
+  line-height: 30px;
+  text-align: left;
+  width: 600px;
+  margin: auto;
+  display: block;
+}
+
+.text_btn {
+  text-align: left;
+  width: 600px;
+  margin: auto;
+  display: block;
+}
+
+.img2 {
+  width: 630px;
+  height: 60px;
+  padding-bottom: 0;
+  vertical-align: bottom;
+}
+.mcnImage {
+  margin: auto;
+  display: block;
+}
+
+.arc-link {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
