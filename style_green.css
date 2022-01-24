@@ -113,14 +113,14 @@ li a:hover {
   animation-fill-mode: both;
 }
 .background {
-  background-color: green;
+  background-color: rgb(18, 68, 18);
   width: 100%;
-  height: 420px;
+  height: 520px;
 }
 .bg-img {
   opacity: 0.6;
   width: 100%;
-  height: 420px;
+  height: 520px;
   transition-property: opacity;
   background-position: center top;
   background: rgba(0, 0, 255, 0);
@@ -414,17 +414,17 @@ svg {
 .celltocenter {
   background-color: rgb(36, 97, 34);
   width: 100%;
-  height: 230px;
+  height: 300px;
   color: #fff;
   margin-top: 50px;
 }
 .textcol {
   color: #fff;
-  margin-top: 60px;
+  margin-top: 115px;
   text-decoration-line: none;
 }
 .textrow {
-  margin-top: 85px;
+  margin-top: 135px;
   text-decoration: none;
   margin-left: 80px;
 }
